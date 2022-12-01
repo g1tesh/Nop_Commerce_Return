@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" name="Failed suite [Nop_Commerce]">
+  <listeners>
+    <listener class-name="Com.NopCommerce.Utilities.ExtendReportManager"/>
+  </listeners>
+  <test name="Alltest(failed)">
+    <classes>
+      <class name="Com.NopCommerce.Test.Nop_WishList_Test">
+        <methods>
+          <include name="CheckWishListItems"/>
+        </methods>
+      </class> <!-- Com.NopCommerce.Test.Nop_WishList_Test -->
+      <class name="Com.NopCommerce.Test.Nop_SearchPage_Test">
+        <methods>
+          <include name="TestClickonSearch"/>
+          <include name="seachvalidation"/>
+        </methods>
+      </class> <!-- Com.NopCommerce.Test.Nop_SearchPage_Test -->
+      <class name="Com.NopCommerce.Test.Nop_Registration_Test">
+        <methods>
+          <include name="setup"/>
+          <include name="FillRegistration"/>
+          <include name="GotoRegistration"/>
+        </methods>
+      </class> <!-- Com.NopCommerce.Test.Nop_Registration_Test -->
+      <class name="Com.NopCommerce.Test.Nop_LoginPage_Test">
+        <methods>
+          <include name="TestLogin"/>
+          <include name="WrongEmailTest"/>
+          <include name="validlogin"/>
+        </methods>
+      </class> <!-- Com.NopCommerce.Test.Nop_LoginPage_Test -->
+      <class name="Com.NopCommerce.Test.Nop_HomePage_Test">
+        <methods>
+          <include name="setup"/>
+          <include name="validatetitle"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- Com.NopCommerce.Test.Nop_HomePage_Test -->
+    </classes>
+  </test> <!-- Alltest(failed) -->
+</suite> <!-- Failed suite [Nop_Commerce] -->

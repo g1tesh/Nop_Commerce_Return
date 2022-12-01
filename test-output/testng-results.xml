@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="10" passed="0" failed="1" skipped="9">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-30T17:22:43Z" name="Nop_Commerce" finished-at="2022-11-30T17:22:56Z" duration-ms="13227">
+    <groups>
+    </groups>
+    <test started-at="2022-11-30T17:22:43Z" name="Alltest" finished-at="2022-11-30T17:22:56Z" duration-ms="13227">
+      <class name="Com.NopCommerce.Test.Nop_Registration_Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Com.NopCommerce.Test.Nop_Registration_Test@3246fb96]" started-at="2022-11-30T22:52:52Z" name="setup" finished-at="2022-11-30T22:52:55Z" duration-ms="2752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="GotoRegistration()[pri:0, instance:Com.NopCommerce.Test.Nop_Registration_Test@3246fb96]" started-at="2022-11-30T22:52:55Z" name="GotoRegistration" finished-at="2022-11-30T22:52:55Z" duration-ms="0" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at com.sun.proxy.$Proxy33.click(Unknown Source)
+	at Com.NopCommerece.PageObj.Nop_Commerece_HomePage.ClickOnRegister(Nop_Commerece_HomePage.java:34)
+	at Com.NopCommerce.Test.Nop_Registration_Test.GotoRegistration(Nop_Registration_Test.java:22)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:653)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GotoRegistration -->
+        <test-method signature="FillRegistration()[pri:0, instance:Com.NopCommerce.Test.Nop_Registration_Test@3246fb96]" started-at="2022-11-30T22:52:55Z" name="FillRegistration" finished-at="2022-11-30T22:52:55Z" duration-ms="2" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillRegistration -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Com.NopCommerce.Test.Nop_Registration_Test@3246fb96]" started-at="2022-11-30T22:52:55Z" name="TearDown" finished-at="2022-11-30T22:52:55Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Com.NopCommerce.Test.Nop_Registration_Test -->
+      <class name="Com.NopCommerce.Test.Nop_WishList_Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Com.NopCommerce.Test.Nop_WishList_Test@3315d2d7]" started-at="2022-11-30T22:52:56Z" name="setup" finished-at="2022-11-30T22:52:56Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setupwish()[pri:0, instance:Com.NopCommerce.Test.Nop_WishList_Test@3315d2d7]" started-at="2022-11-30T22:52:56Z" name="setupwish" finished-at="2022-11-30T22:52:56Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupwish -->
+        <test-method signature="CheckWishListItems()[pri:0, instance:Com.NopCommerce.Test.Nop_WishList_Test@3315d2d7]" started-at="2022-11-30T22:52:56Z" name="CheckWishListItems" finished-at="2022-11-30T22:52:56Z" duration-ms="1" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckWishListItems -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Com.NopCommerce.Test.Nop_WishList_Test@3315d2d7]" started-at="2022-11-30T22:52:56Z" name="TearDown" finished-at="2022-11-30T22:52:56Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Com.NopCommerce.Test.Nop_WishList_Test -->
+      <class name="Com.NopCommerce.Test.Nop_HomePage_Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Com.NopCommerce.Test.Nop_HomePage_Test@73ee04c8]" started-at="2022-11-30T22:52:43Z" name="setup" finished-at="2022-11-30T22:52:47Z" duration-ms="3715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validatetitle()[pri:0, instance:Com.NopCommerce.Test.Nop_HomePage_Test@73ee04c8]" started-at="2022-11-30T22:52:47Z" name="validatetitle" finished-at="2022-11-30T22:52:47Z" duration-ms="29" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at com.sun.proxy.$Proxy33.isDisplayed(Unknown Source)
+	at Com.NopCommerece.PageObj.Nop_Commerece_HomePage.Validatelogovisibility(Nop_Commerece_HomePage.java:28)
+	at Com.NopCommerce.Test.Nop_HomePage_Test.validatetitle(Nop_HomePage_Test.java:22)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatetitle -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Com.NopCommerce.Test.Nop_HomePage_Test@73ee04c8]" started-at="2022-11-30T22:52:47Z" name="TearDown" finished-at="2022-11-30T22:52:52Z" duration-ms="5004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Com.NopCommerce.Test.Nop_HomePage_Test -->
+      <class name="Com.NopCommerce.Test.Nop_SearchPage_Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Com.NopCommerce.Test.Nop_SearchPage_Test@77eca502]" started-at="2022-11-30T22:52:56Z" name="setup" finished-at="2022-11-30T22:52:56Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setupsearch()[pri:0, instance:Com.NopCommerce.Test.Nop_SearchPage_Test@77eca502]" started-at="2022-11-30T22:52:56Z" name="setupsearch" finished-at="2022-11-30T22:52:56Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupsearch -->
+        <test-method signature="seachvalidation()[pri:0, instance:Com.NopCommerce.Test.Nop_SearchPage_Test@77eca502]" started-at="2022-11-30T22:52:56Z" name="seachvalidation" finished-at="2022-11-30T22:52:56Z" duration-ms="2" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seachvalidation -->
+        <test-method is-config="true" signature="setupsearch()[pri:0, instance:Com.NopCommerce.Test.Nop_SearchPage_Test@77eca502]" started-at="2022-11-30T22:52:56Z" name="setupsearch" finished-at="2022-11-30T22:52:56Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupsearch -->
+        <test-method signature="TestClickonSearch()[pri:0, instance:Com.NopCommerce.Test.Nop_SearchPage_Test@77eca502]" started-at="2022-11-30T22:52:56Z" name="TestClickonSearch" finished-at="2022-11-30T22:52:56Z" duration-ms="2" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestClickonSearch -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Com.NopCommerce.Test.Nop_SearchPage_Test@77eca502]" started-at="2022-11-30T22:52:56Z" name="TearDown" finished-at="2022-11-30T22:52:56Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Com.NopCommerce.Test.Nop_SearchPage_Test -->
+      <class name="Com.NopCommerce.Test.Nop_LoginPage_Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Com.NopCommerce.Test.Nop_LoginPage_Test@2e222612]" started-at="2022-11-30T22:52:55Z" name="setup" finished-at="2022-11-30T22:52:55Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="prerequisites()[pri:0, instance:Com.NopCommerce.Test.Nop_LoginPage_Test@2e222612]" started-at="2022-11-30T22:52:56Z" name="prerequisites" finished-at="2022-11-30T22:52:56Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequisites -->
+        <test-method signature="TestLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Com.NopCommerce.Test.Nop_LoginPage_Test@2e222612]" started-at="2022-11-30T22:52:56Z" name="TestLogin" data-provider="LoginData" finished-at="2022-11-30T22:52:56Z" duration-ms="3" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Talent123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method is-config="true" signature="prerequisites()[pri:0, instance:Com.NopCommerce.Test.Nop_LoginPage_Test@2e222612]" started-at="2022-11-30T22:52:56Z" name="prerequisites" finished-at="2022-11-30T22:52:56Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequisites -->
+        <test-method signature="TestLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Com.NopCommerce.Test.Nop_LoginPage_Test@2e222612]" started-at="2022-11-30T22:52:56Z" name="TestLogin" data-provider="LoginData" finished-at="2022-11-30T22:52:56Z" duration-ms="2" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[xyz@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Talent_123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method is-config="true" signature="prerequisites()[pri:0, instance:Com.NopCommerce.Test.Nop_LoginPage_Test@2e222612]" started-at="2022-11-30T22:52:56Z" name="prerequisites" finished-at="2022-11-30T22:52:56Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequisites -->
+        <test-method signature="TestLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Com.NopCommerce.Test.Nop_LoginPage_Test@2e222612]" started-at="2022-11-30T22:52:56Z" name="TestLogin" data-provider="LoginData" finished-at="2022-11-30T22:52:56Z" duration-ms="2" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Gite@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test_123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method is-config="true" signature="prerequisites()[pri:0, instance:Com.NopCommerce.Test.Nop_LoginPage_Test@2e222612]" started-at="2022-11-30T22:52:56Z" name="prerequisites" finished-at="2022-11-30T22:52:56Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequisites -->
+        <test-method signature="WrongEmailTest()[pri:0, instance:Com.NopCommerce.Test.Nop_LoginPage_Test@2e222612]" started-at="2022-11-30T22:52:56Z" name="WrongEmailTest" finished-at="2022-11-30T22:52:56Z" duration-ms="3" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WrongEmailTest -->
+        <test-method is-config="true" signature="prerequisites()[pri:0, instance:Com.NopCommerce.Test.Nop_LoginPage_Test@2e222612]" started-at="2022-11-30T22:52:56Z" name="prerequisites" finished-at="2022-11-30T22:52:56Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequisites -->
+        <test-method signature="validlogin()[pri:0, instance:Com.NopCommerce.Test.Nop_LoginPage_Test@2e222612]" started-at="2022-11-30T22:52:56Z" name="validlogin" finished-at="2022-11-30T22:52:56Z" duration-ms="3" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validlogin -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Com.NopCommerce.Test.Nop_LoginPage_Test@2e222612]" started-at="2022-11-30T22:52:56Z" name="TearDown" finished-at="2022-11-30T22:52:56Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Com.NopCommerce.Test.Nop_LoginPage_Test -->
+    </test> <!-- Alltest -->
+  </suite> <!-- Nop_Commerce -->
+</testng-results>

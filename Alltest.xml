@@ -1,0 +1,14 @@
+<suite name = "Nop_Commerce" thread-count="3" parallel = "tests" >
+<listeners>
+<listener class-name = "Com.NopCommerce.Utilities.ExtendReportManager"/>
+</listeners>
+<test name = "Alltest">
+<classes>
+<class name = "Com.NopCommerce.Test.Nop_HomePage_Test"/>
+<class name = "Com.NopCommerce.Test.Nop_Registration_Test"/>
+<class name = "Com.NopCommerce.Test.Nop_LoginPage_Test"/>
+<class name = "Com.NopCommerce.Test.Nop_SearchPage_Test"/>
+<class name = "Com.NopCommerce.Test.Nop_WishList_Test"/>
+</classes>
+</test>
+</suite>

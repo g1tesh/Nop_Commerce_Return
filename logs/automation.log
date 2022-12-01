@@ -1,0 +1,203 @@
+16:32:28.133 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Opening Demo.NopCommerece website
+16:32:33.998 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Login was successfull
+16:32:34.906 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Clicked on Logout
+16:34:56.501 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Opening Demo.NopCommerece website
+16:35:03.532 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Login was successfull
+16:35:04.716 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Clicked on Logout
+16:35:04.716 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Valid and logout is true
+16:35:04.716 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Calling screenShot
+16:37:56.460 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Opening Demo.NopCommerece website
+16:38:02.837 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Login was successfull
+16:38:03.825 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Clicked on Logout
+16:38:03.825 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Valid and logout is true
+16:38:03.825 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Calling screenShot
+16:42:50.408 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Opening Demo.NopCommerece website
+16:42:57.069 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Login was successfull
+16:42:58.076 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Clicked on Logout
+16:42:58.077 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Valid and logout is true
+16:42:58.077 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Calling screenShot
+16:44:20.997 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Opening Demo.NopCommerece website
+16:44:27.524 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Login was successfull
+16:44:28.554 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Clicked on Logout
+16:44:28.555 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Valid and logout is true
+16:44:28.555 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Calling screenShot
+16:46:14.863 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Opening Demo.NopCommerece website
+16:46:22.575 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Login was successfull
+16:46:23.711 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Clicked on Logout
+16:46:23.711 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Valid and logout is true
+16:48:00.080 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Opening Demo.NopCommerece website
+16:48:06.553 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Login was successfull
+16:48:07.512 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Clicked on Logout
+16:48:07.514 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Valid and logout is true
+16:53:28.137 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Opening Demo.NopCommerece website
+16:53:34.182 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Login was successfull
+16:53:35.190 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Clicked on Logout
+16:53:35.190 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Valid and logout is true
+16:54:40.856 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Opening Demo.NopCommerece website
+16:54:48.221 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Login was successfull
+16:54:49.197 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Clicked on Logout
+16:54:49.198 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Valid and logout is true
+16:58:40.110 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Opening Demo.NopCommerece website
+16:58:48.353 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Login was successfull
+16:58:49.721 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Clicked on Logout
+16:58:49.721 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Valid and logout is true
+17:01:53.499 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Opening Demo.NopCommerece website
+17:02:00.554 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Login was successfull
+17:02:01.764 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Clicked on Logout
+17:02:01.764 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Valid and logout is true
+17:02:04.277 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Invalid and logout is false
+17:02:06.698 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Invalid and logout is false
+17:49:45.842 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Opening Demo.NopCommerece website
+17:50:45.813 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Opening Demo.NopCommerece website
+18:16:18.269 [main] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Opening Demo.NopCommerece website
+18:16:23.196 [main] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Going for screenshot
+18:16:23.535 [main] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Screenshotcalled
+23:20:24.678 [main] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - Opening Demo.NopCommerece website
+23:20:24.867 [main] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - true Returning logo visibility
+23:20:34.580 [main] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Opening Demo.NopCommerece website
+23:20:40.202 [main] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Going for screenshot
+23:20:40.373 [main] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Screenshotcalled
+23:21:37.227 [TestNG] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - Opening Demo.NopCommerece website
+23:21:37.399 [TestNG] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - true Returning logo visibility
+08:27:55.625 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Opening Demo.NopCommerece website
+08:27:55.782 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - true Returning logo visibility
+08:28:00.119 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Going for screenshot
+08:28:00.347 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Screenshotcalled
+08:28:15.785 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Login was successfull
+08:28:17.290 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Clicked on Logout
+08:28:17.290 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Details Valid and logout is true
+08:28:19.884 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Details Invalid and logout is false
+08:28:22.566 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Details Invalid and logout is false
+08:28:56.198 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Opening Demo.NopCommerece website
+08:28:56.363 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - true Returning logo visibility
+08:29:01.086 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Going for screenshot
+08:29:01.320 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Screenshotcalled
+08:29:17.006 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Login was successfull
+08:29:18.302 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Clicked on Logout
+08:29:18.302 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Details Valid and logout is true
+08:29:20.783 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Details Invalid and logout is false
+08:29:23.572 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Details Invalid and logout is false
+08:56:28.731 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Opening Demo.NopCommerece website
+08:56:53.695 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Opening Demo.NopCommerece website
+09:00:00.382 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Opening Demo.NopCommerece website
+09:00:26.214 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Opening Demo.NopCommerece website
+09:00:33.571 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Login was successfull
+09:00:35.016 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Clicked on Logout
+09:00:35.016 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Valid and logout is true
+09:00:37.773 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Invalid and logout is false
+09:00:51.213 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Opening Demo.NopCommerece website
+12:12:51.828 [main] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - Opening Demo.NopCommerece website
+12:12:51.936 [main] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - true Returning logo visibility
+12:22:57.253 [main] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Opening Demo.NopCommerece website
+12:23:36.464 [main] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Opening Demo.NopCommerece website
+12:24:11.328 [main] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Opening Demo.NopCommerece website
+12:30:01.314 [main] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Opening Demo.NopCommerece website
+16:30:18.851 [main] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Opening Demo.NopCommerece website
+16:31:07.110 [main] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Opening Demo.NopCommerece website
+16:31:31.690 [main] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Opening Demo.NopCommerece website
+16:32:33.672 [main] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Opening Demo.NopCommerece website
+16:34:22.112 [main] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Opening Demo.NopCommerece website
+16:39:29.344 [main] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Opening Demo.NopCommerece website
+17:08:57.677 [TestNG] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Opening Demo.NopCommerece website
+17:08:57.827 [TestNG] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - true Returning logo visibility
+17:09:02.160 [TestNG] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Going for screenshot
+17:09:02.334 [TestNG] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Screenshotcalled
+17:12:59.379 [TestNG] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Opening Demo.NopCommerece website
+17:12:59.559 [TestNG] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - true Returning logo visibility
+17:13:03.677 [TestNG] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Going for screenshot
+17:13:03.860 [TestNG] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Screenshotcalled
+17:13:19.837 [TestNG] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Login was successfull
+17:13:20.954 [TestNG] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Clicked on Logout
+17:13:20.954 [TestNG] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Details Valid and logout is true
+17:13:23.521 [TestNG] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Details Invalid and logout is false
+17:13:26.018 [TestNG] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Details Invalid and logout is false
+17:26:42.719 [main] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Opening Demo.NopCommerece website
+17:35:52.750 [main] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Opening Demo.NopCommerece website
+17:52:19.983 [main] INFO  Com.NopCommerce.Test.Nop_WishList_Test - Opening Demo.NopCommerece website
+18:01:46.384 [main] INFO  Com.NopCommerce.Test.Nop_WishList_Test - Opening Demo.NopCommerece website
+18:05:55.624 [main] INFO  Com.NopCommerce.Test.Nop_WishList_Test - Opening Demo.NopCommerece website
+18:07:13.162 [main] INFO  Com.NopCommerce.Test.Nop_WishList_Test - Opening Demo.NopCommerece website
+18:09:49.485 [main] INFO  Com.NopCommerce.Test.Nop_WishList_Test - Opening Demo.NopCommerece website
+18:11:11.472 [main] INFO  Com.NopCommerce.Test.Nop_WishList_Test - Opening Demo.NopCommerece website
+18:11:48.848 [main] INFO  Com.NopCommerce.Test.Nop_WishList_Test - Opening Demo.NopCommerece website
+18:14:15.009 [TestNG] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - Opening Demo.NopCommerece website
+18:14:15.195 [TestNG] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - true Returning logo visibility
+18:14:24.359 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Opening Demo.NopCommerece website
+18:14:30.688 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Going for screenshot
+18:14:31.008 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Screenshotcalled
+18:14:40.375 [TestNG] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Opening Demo.NopCommerece website
+18:14:48.341 [TestNG] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Login was successfull
+18:14:49.796 [TestNG] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Clicked on Logout
+18:14:49.796 [TestNG] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Valid and logout is true
+18:14:52.506 [TestNG] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Invalid and logout is false
+18:14:55.554 [TestNG] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Invalid and logout is false
+18:14:59.154 [TestNG] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Opening Demo.NopCommerece website
+18:15:04.757 [TestNG] INFO  Com.NopCommerce.Test.Nop_WishList_Test - Opening Demo.NopCommerece website
+18:28:36.476 [main] INFO  Com.NopCommerce.Test.Nop_WishList_Test - Opening Demo.NopCommerece website
+18:29:19.783 [main] INFO  Com.NopCommerce.Test.Nop_WishList_Test - Opening Demo.NopCommerece website
+18:33:24.705 [main] INFO  Com.NopCommerce.Test.Nop_WishList_Test - Opening Demo.NopCommerece website
+18:36:58.622 [main] INFO  Com.NopCommerce.Test.Nop_WishList_Test - Opening Demo.NopCommerece website
+18:39:43.203 [main] INFO  Com.NopCommerce.Test.Nop_WishList_Test - Opening Demo.NopCommerece website
+18:42:06.928 [main] INFO  Com.NopCommerce.Test.Nop_WishList_Test - Opening Demo.NopCommerece website
+22:33:08.645 [main] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - Opening Demo.NopCommerece website
+22:33:08.749 [main] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - true Returning logo visibility
+22:33:17.854 [main] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Opening Demo.NopCommerece website
+22:33:20.811 [main] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Going for screenshot
+22:33:20.955 [main] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Screenshotcalled
+22:33:29.316 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Opening Demo.NopCommerece website
+22:33:34.693 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Login was successfull
+22:33:35.588 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Clicked on Logout
+22:33:35.589 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Valid and logout is true
+22:33:37.737 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Invalid and logout is false
+22:33:39.859 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Invalid and logout is false
+22:33:58.858 [main] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Opening Demo.NopCommerece website
+22:34:40.283 [main] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - Opening Demo.NopCommerece website
+22:34:40.401 [main] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - true Returning logo visibility
+22:34:48.607 [main] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Opening Demo.NopCommerece website
+22:34:51.552 [main] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Going for screenshot
+22:34:51.678 [main] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Screenshotcalled
+22:35:08.931 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Opening Demo.NopCommerece website
+22:39:28.268 [main] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - Opening Demo.NopCommerece website
+22:39:28.355 [main] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - true Returning logo visibility
+22:39:37.325 [main] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Opening Demo.NopCommerece website
+22:39:40.323 [main] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Going for screenshot
+22:39:40.457 [main] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Screenshotcalled
+22:39:58.706 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Opening Demo.NopCommerece website
+22:40:03.366 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Login was successfull
+22:40:04.401 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Clicked on Logout
+22:40:04.401 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Valid and logout is true
+22:40:06.560 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Invalid and logout is false
+22:40:08.703 [main] INFO  Com.NopCommerce.Test.Nop_LoginPage_Test - Details Invalid and logout is false
+22:40:28.233 [main] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Opening Demo.NopCommerece website
+22:43:04.630 [main] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - Opening Demo.NopCommerece website
+22:43:04.761 [main] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - true Returning logo visibility
+22:44:08.640 [TestNG] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Opening Demo.NopCommerece website
+22:44:09.980 [TestNG] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Opening Demo.NopCommerece website
+22:44:10.072 [TestNG] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - true Returning logo visibility
+22:44:15.257 [TestNG] INFO  Com.NopCommerce.Test.Nop_WishList_Test - Opening Demo.NopCommerece website
+22:44:22.024 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Opening Demo.NopCommerece website
+22:45:32.334 [TestNG] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Opening Demo.NopCommerece website
+22:45:32.725 [TestNG] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Opening Demo.NopCommerece website
+22:45:32.791 [TestNG] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - true Returning logo visibility
+22:45:37.470 [TestNG] INFO  Com.NopCommerce.Test.Nop_WishList_Test - Opening Demo.NopCommerece website
+22:45:42.797 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Opening Demo.NopCommerece website
+22:49:47.219 [TestNG] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - Opening Demo.NopCommerece website
+22:49:48.364 [TestNG] INFO  Com.NopCommerce.Test.Nop_WishList_Test - Opening Demo.NopCommerece website
+22:49:49.734 [TestNG] INFO  Com.NopCommerce.Test.Nop_WishList_Test - Opening Demo.NopCommerece website
+22:49:58.627 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Opening Demo.NopCommerece website
+22:51:18.531 [main] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - Opening Demo.NopCommerece website
+22:51:25.741 [main] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Opening Demo.NopCommerece website
+22:51:32.287 [main] INFO  Com.NopCommerce.Test.Nop_SearchPage_Test - Opening Demo.NopCommerece website
+22:51:41.700 [main] INFO  Com.NopCommerce.Test.Nop_WishList_Test - Opening Demo.NopCommerece website
+22:52:47.478 [main] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - Opening Demo.NopCommerece website
+22:52:55.299 [main] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Opening Demo.NopCommerece website
+22:53:38.516 [main] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - Opening Demo.NopCommerece website
+22:53:38.647 [main] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - true Returning logo visibility
+22:53:47.381 [main] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Opening Demo.NopCommerece website
+22:53:50.041 [main] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Going for screenshot
+22:53:50.181 [main] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Screenshotcalled
+22:54:16.812 [TestNG] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - Opening Demo.NopCommerece website
+22:54:16.921 [TestNG] INFO  Com.NopCommerce.Test.Nop_HomePage_Test - true Returning logo visibility
+22:54:25.053 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Opening Demo.NopCommerece website
+22:54:27.025 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Going for screenshot
+22:54:27.166 [TestNG] INFO  Com.NopCommerce.Test.Nop_Registration_Test - Screenshotcalled
